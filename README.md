@@ -10,4 +10,4 @@ A simple ToDo List that allows users to keep track of tasks.
 
 • Allows user to delete tasks from list.
 
-• Allows user to add multiple tasks with a scrollable screen.
+• Allows user to add multiple tasks with a scrollable view.
