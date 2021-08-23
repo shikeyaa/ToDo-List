@@ -11,7 +11,7 @@ A simple Shopping List App that allows users to keep track of their shopping lis
 ------------
 • Allows user to add items to list.
 
-• Allows user to check off items that have been purchased.
+• Allows user to check off items on list.
 
 • Allows user to delete items from list.
 
