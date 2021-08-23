@@ -1,6 +1,6 @@
 ![ToDo List](https://user-images.githubusercontent.com/59205692/130472078-92620786-5179-4d6f-bc32-acc6c7dd9efd.gif)
 
-# Shopping-List
+# Shopping-List App
 
 A simple Shopping List App that allows users to keep track of their grocery list.
 ------------
