@@ -1,7 +1,8 @@
 
 
 
-![shoppinglist2 - Copy](https://user-images.githubusercontent.com/59205692/130510857-1a77140c-972a-467e-b9d7-02b5044c3d57.gif)
+![shoppinglist1](https://user-images.githubusercontent.com/59205692/130622313-0936ab04-5b61-4e00-8268-cb785366b7b9.gif)
+
 
 
 
